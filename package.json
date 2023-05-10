@@ -1,6 +1,6 @@
 {
   "name": "@liamtownsley/easylog-lite",
-  "version": "1.0.0",
+  "version": "1.0.1",
   "description": "A more simplistic & lighter version of my EasyLog package.",
   "main": "dist/index.js",
   "types": "dist/index.d.ts",
@@ -14,7 +14,7 @@
   },
   "repository": {
     "type": "git",
-    "url": "git+https://github.com/LiamTownsley2/EasyLog.git"
+    "url": "git+https://github.com/LiamTownsley2/EasyLogLite.git"
   },
   "keywords": [
     "easylog",
@@ -25,9 +25,9 @@
   "author": "Liam Townsley",
   "license": "ISC",
   "bugs": {
-    "url": "https://github.com/LiamTownsley2/EasyLog/issues"
+    "url": "https://github.com/LiamTownsley2/EasyLogLite/issues"
   },
-  "homepage": "https://github.com/LiamTownsley2/EasyLog#readme",
+  "homepage": "https://github.com/LiamTownsley2/EasyLogLite#readme",
   "devDependencies": {
     "typescript": "^5.0.4"
   }

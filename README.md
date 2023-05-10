@@ -1,6 +1,6 @@
 <br/>
 <p align="center">
-  <a href="https://github.com/LiamTownsley2/EasyLog">
+  <a href="https://github.com/LiamTownsley2/EasyLogLite">
     <img src=".github/images/logo-transparent.png" alt="Logo" width="80" height="80">
   </a>
 
@@ -10,15 +10,15 @@
     This is my simple logging package for creating simple, good looking CLI outputs.
     <br/>
     <br/>
-    <a href="https://github.com/LiamTownsley2/EasyLog">View Demo</a>
+    <a href="https://github.com/LiamTownsley2/EasyLogLite">View Demo</a>
     .
-    <a href="https://github.com/LiamTownsley2/EasyLog/issues">Report Bug</a>
+    <a href="https://github.com/LiamTownsley2/EasyLogLite/issues">Report Bug</a>
     .
-    <a href="https://github.com/LiamTownsley2/EasyLog/issues">Request Feature</a>
+    <a href="https://github.com/LiamTownsley2/EasyLogLite/issues">Request Feature</a>
   </p>
 </p>
 
-![Contributors](https://img.shields.io/github/contributors/LiamTownsley2/EasyLog?color=dark-green) ![Stargazers](https://img.shields.io/github/stars/LiamTownsley2/EasyLog?style=social) ![Issues](https://img.shields.io/github/issues/LiamTownsley2/EasyLog) 
+![Contributors](https://img.shields.io/github/contributors/LiamTownsley2/EasyLogLite?color=dark-green) ![Stargazers](https://img.shields.io/github/stars/LiamTownsley2/EasyLogLite?style=social) ![Issues](https://img.shields.io/github/issues/LiamTownsley2/EasyLogLite) 
 
 ## Table Of Contents
 
@@ -52,13 +52,13 @@ To get a local copy up and running follow these simple example steps.
 
 You can install this project with
 ```sh
-npm install --save @liamtownsley/easylog
+npm install --save @liamtownsley/easylog-lite
 ```
 
 ## Usage
 
 ```js
-const { log, LogType } = require('@liamtownsley/easylog');
+const { log, LogType } = require('@liamtownsley/easylog-lite');
 
 log("Checked Log", LogType.CHECKED_LOG);
 log("Critical Error", LogType.CRITICAL_ERROR);
@@ -70,15 +70,15 @@ log("Warning", LogType.WARNING);
 
 ## Roadmap
 
-See the [open issues](https://github.com/LiamTownsley2/EasyLog/issues) for a list of proposed features (and known issues).
+See the [open issues](https://github.com/LiamTownsley2/EasyLogLite/issues) for a list of proposed features (and known issues).
 
 ## Contributing
 
 Contributions are what make the open source community such an amazing place to be learn, inspire, and create. Any contributions you make are **greatly appreciated**.
-* If you have suggestions for adding or removing projects, feel free to [open an issue](https://github.com/LiamTownsley2/EasyLog/issues/new) to discuss it, or directly create a pull request after you edit the *README.md* file with necessary changes.
+* If you have suggestions for adding or removing projects, feel free to [open an issue](https://github.com/LiamTownsley2/EasyLogLite/issues/new) to discuss it, or directly create a pull request after you edit the *README.md* file with necessary changes.
 * Please make sure you check your spelling and grammar.
 * Create individual PR for each suggestion.
-* Please also read through the [Code Of Conduct](https://github.com/LiamTownsley2/EasyLog/blob/main/CODE_OF_CONDUCT.md) before posting your first idea as well.
+* Please also read through the [Code Of Conduct](https://github.com/LiamTownsley2/EasyLogLite/blob/main/CODE_OF_CONDUCT.md) before posting your first idea as well.
 
 ### Creating A Pull Request
 
@@ -90,7 +90,7 @@ Contributions are what make the open source community such an amazing place to b
 
 ## License
 
-Distributed under the ISC License. See [LICENSE](https://github.com/LiamTownsley2/EasyLog/blob/main/LICENSE.md) for more information.
+Distributed under the ISC License. See [LICENSE](https://github.com/LiamTownsley2/EasyLogLite/blob/main/LICENSE.md) for more information.
 
 ## Authors
 
