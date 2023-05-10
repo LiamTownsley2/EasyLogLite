@@ -1,7 +1,7 @@
 {
-  "name": "@liamtownsley/easylog",
-  "version": "2.0.5",
-  "description": "A simple CLI logging management program.",
+  "name": "@liamtownsley/easylog-lite",
+  "version": "1.0.0",
+  "description": "A more simplistic & lighter version of my EasyLog package.",
   "main": "dist/index.js",
   "types": "dist/index.d.ts",
   "files": [
@@ -28,8 +28,7 @@
     "url": "https://github.com/LiamTownsley2/EasyLog/issues"
   },
   "homepage": "https://github.com/LiamTownsley2/EasyLog#readme",
-  "dependencies": {
-    "@liamtownsley/easylog": "^2.0.4",
+  "devDependencies": {
     "typescript": "^5.0.4"
   }
 }
